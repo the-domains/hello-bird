@@ -1,7 +1,7 @@
 name: 'hello, bird.'
 favicon: null
-layout_spectrum: 0.41445140400901437
-typography_spectrum: 0.6486852585803717
+layout_spectrum: 0.23965
+typography_spectrum: 0.74609
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8440072403755039
-  lightness: 0.392810276709497
-  saturation: 0.54253746336326
-  rhythmicContrast: 0.8562727626413107
+    - '#959595'
+    - '#8a8a8a'
+    - '#808080'
+    - '#555555'
+    - '#aaaaaa'
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
