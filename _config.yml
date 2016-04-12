@@ -1,3 +1,4 @@
+favicon: null
 cta:
   bucket: null
   version: null
@@ -12,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8125
@@ -35,5 +36,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: 'hello, bird.'
