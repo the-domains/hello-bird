@@ -1,9 +1,7 @@
-favicon: null
 name: 'hello, bird.'
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.23965
+typography_spectrum: 0.74609
 collections:
   - index:
       path: /
@@ -16,24 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6875
-  brandStrength: 0.8189964
-  lightness: 0.375
-  brandColors:
-    - '#C6CFD8'
-    - '#70777F'
-    - '#543027'
-    - '#FFF9FF'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.74609
-layout_spectrum: 0.23965
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#c2baab'
+    - '#72675d'
+    - '#ab998a'
+    - '#121212'
+    - '#6c2c3d'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.8125
+  rhythmicContrast: 0.25
+purpose: []
